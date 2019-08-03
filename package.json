@@ -1,0 +1,67 @@
+{
+  "_from": "react-native-modal-dropdown-flatlist",
+  "_id": "react-native-modal-dropdown-flatlist@0.6.2",
+  "_inBundle": false,
+  "_integrity": "sha512-1jzByA+ME+q0mZJ2rZrLsf6jVwJhNxNHdg7I50xYZ9oYJsmmKwF9r/ks95tZxxks4Zvd7/FnaveNtyd+uevXAw==",
+  "_location": "/react-native-modal-dropdown-flatlist",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-modal-dropdown-flatlist",
+    "name": "react-native-modal-dropdown-flatlist",
+    "escapedName": "react-native-modal-dropdown-flatlist",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-modal-dropdown-flatlist/-/react-native-modal-dropdown-flatlist-0.6.2.tgz",
+  "_shasum": "da6027b3546d2031fbce46242bffc95561e13599",
+  "_spec": "react-native-modal-dropdown",
+  "_where": "/Users/cern/Desktop/projects/project_2019_emagazine/EMagazine_RN",
+  "author": {
+    "name": "sohobloo",
+    "email": "sohobloo@live.cn",
+    "url": "https://github.com/zern.exz"
+  },
+  "bugs": {
+    "url": "https://github.com/zernexz/react-native-modal-dropdown-flatlist/issues",
+    "email": "zern.exz@gmail.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "deprecated": false,
+  "description": "A react-native dropdown component for both iOS and Android.",
+  "homepage": "https://github.com/zernexz/react-native-modal-dropdown-flatlist",
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "react-native-component",
+    "ios",
+    "android",
+    "modal",
+    "dropdown",
+    "picker",
+    "select",
+    "selector",
+    "option"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-modal-dropdown",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohobloo/react-native-modal-dropdown.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.6.2"
+}
